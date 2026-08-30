@@ -31,7 +31,6 @@ The official metadata describes C-08 as educational level by age and sex for pop
 ├── README.md
 ├── PROJECT_REPORT.md
 ├── C08_clean.csv
-├── Fact_Education_Long.csv
 ├── Data_cleaning.ipynb
 ├── census c08 queries.sql
 ├── CensusDashboard.tsx
