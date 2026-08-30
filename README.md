@@ -165,12 +165,6 @@ Among literates nationally:
 
 The SQL file contains ten questions covering illiteracy, rural/urban literacy, sex-based gaps, graduate share, age patterns, residence gaps, technical qualifications, below-primary attainment, working-age literacy and higher-education gaps.
 
-### SQL improvement required
-
-Several supplied queries use `Total_Persons` as the denominator for `All ages`. If the intended statistic is an effective 7+ rate, those queries should instead use a denominator that excludes the corresponding 0–6 population.
-
-Keep the original SQL for transparency, but add corrected versions/comments rather than silently changing it.
-
 ## Dashboard
 
 The React/TypeScript preview contains:
@@ -184,19 +178,6 @@ The React/TypeScript preview contains:
 The Power BI guide mirrors this five-page structure and provides DAX measures, slicers and cross-filtering guidance.
 
 A key modelling recommendation is to separate aggregate levels (`Total`, `Illiterate`, `Literate`) from detailed attainment levels so that the same population is not counted twice.
-
-## Recommended improvements
-
-1. Standardise the 7+ denominator across Python, SQL, Power BI and React.
-2. Add a `Level_Type` field separating aggregate and attainment categories.
-3. Add automated validation checks.
-4. Add a numeric age sort key.
-5. Add a methodology page/card to the dashboard.
-6. Add a short insight box to each dashboard page.
-7. Add screenshots to the README.
-8. Add a `DATA_DICTIONARY.md`.
-9. Keep the denominator discrepancy visible and explained.
-10. Avoid causal claims from descriptive Census data.
 
 > **AI assistance:** Generative AI was used selectively for documentation, formatting and code-review support. The underlying Census files, calculations and final analytical decisions were reviewed against the project data and source documentation.
 
