@@ -213,6 +213,17 @@ A key modelling recommendation is to separate aggregate levels (`Total`, `Illite
 9. Compare SQL, Python and dashboard outputs.
 10. Document any intentional difference between C-08-derived rates and headline Census rates.
 
+## Reports Assets Preview 
+[Age_Chart](https://github.com/rishabhtiwari-data/India-Census-2011---Educational-Attainment-by-Age-Sex/blob/main/report_assets/chart_age.png)
+
+[Gender_Chart](https://github.com/rishabhtiwari-data/India-Census-2011---Educational-Attainment-by-Age-Sex/blob/main/report_assets/chart_gender.png)
+
+[Rural_Urban_Chart](https://github.com/rishabhtiwari-data/India-Census-2011---Educational-Attainment-by-Age-Sex/blob/main/report_assets/chart_rural_urban.png)
+
+[Top_Bottom_Chart](https://github.com/rishabhtiwari-data/India-Census-2011---Educational-Attainment-by-Age-Sex/blob/main/report_assets/chart_top_bottom.png)
+
+[Dashboard_Preview](https://github.com/rishabhtiwari-data/India-Census-2011---Educational-Attainment-by-Age-Sex/blob/main/report_assets/Dashboard_Preview.jpg)
+
 ## Detailed report
 
 See [`PROJECT_REPORT.pdf`](PROJECT_REPORT.pdf).
