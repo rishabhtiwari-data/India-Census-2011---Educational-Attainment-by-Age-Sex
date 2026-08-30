@@ -54,7 +54,7 @@ The official metadata describes C-08 as educational level by age and sex for pop
 | `census c08 queries.sql` | SQLite-compatible schema and 10 analytical SQL queries. |
 | `CensusDashboard.tsx` | Interactive React/TypeScript preview of the dashboard. |
 | `PowerBI Build Guide.pdf` | Power BI import instructions, DAX measures, page layouts and interaction guidance. |
-| `PROJECT_REPORT.md` | Detailed methodology, findings, limitations and recommendations. |
+| `PROJECT_REPORT.pdf` | Detailed methodology, findings, limitations and recommendations. |
 
 ## Data model
 
