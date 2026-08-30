@@ -25,6 +25,28 @@ Official catalog: https://censusindia.gov.in/nada/index.php/catalog/44790
 The official metadata describes C-08 as educational level by age and sex for population age 7 and above, with Total/Rural/Urban residence and age groups including single years 7–19, grouped ages thereafter, and an `0–6` row treated as illiterate.
 
 ## Repository structure
+
+```text
+.
+├── README.md
+├── PROJECT_REPORT.md
+├── C08_clean.csv
+├── Fact_Education_Long.csv
+├── Data_cleaning.ipynb
+├── census c08 queries.sql
+├── CensusDashboard.tsx
+├── PowerBI Build Guide.pdf
+└── report-assets/
+    ├── chart_gender.png
+    ├── chart_top_bottom.png
+    ├── chart_rural_urban.png
+    └── chart_age.png
+    └── [final_dashboard.png](https://github.com/rishabhtiwari-data/India-Census-2011---Educational-Attainment-by-Age-Sex/blob/main/report_assets/Dashboard_Preview.jpg)
+
+```
+
+
+## Repository structure
 Indian-Census-2011-Education-Analysis/
 │
 ├── README.md
@@ -40,7 +62,7 @@ Indian-Census-2011-Education-Analysis/
     ├── chart_top_bottom.png
     ├── chart_age.png
     ├── chart_rural_urban.png
-    └── final_dashboard.png[final_dashboard.png](https://github.com/rishabhtiwari-data/India-Census-2011---Educational-Attainment-by-Age-Sex/blob/main/report_assets/Dashboard_Preview.jpg)
+    
     
 ## File guide
 
