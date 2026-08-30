@@ -41,6 +41,7 @@ The official metadata describes C-08 as educational level by age and sex for pop
     ├── chart_top_bottom.png
     ├── chart_rural_urban.png
     └── chart_age.png
+    └── final_dashboard.png
 ```
 
 ## File guide
