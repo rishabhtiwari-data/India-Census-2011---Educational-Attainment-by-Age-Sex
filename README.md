@@ -40,7 +40,7 @@ Indian-Census-2011-Education-Analysis/
     ├── chart_top_bottom.png
     ├── chart_age.png
     ├── chart_rural_urban.png
-    └── final_dashboard.png[final_dashboard.png](
+    └── final_dashboard.png[final_dashboard.png](https://github.com/rishabhtiwari-data/India-Census-2011---Educational-Attainment-by-Age-Sex/blob/main/report_assets/Dashboard_Preview.jpg)
     
 ## File guide
 
