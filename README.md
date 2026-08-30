@@ -30,7 +30,7 @@ The official metadata describes C-08 as educational level by age and sex for pop
 .
 ├── README.md
 ├── PROJECT_REPORT.md
-├── C08_clean.csv
+├── C08_clean.xlsx
 ├── Data_cleaning.ipynb
 ├── census c08 queries.sql
 ├── CensusDashboard.tsx
@@ -47,7 +47,7 @@ The official metadata describes C-08 as educational level by age and sex for pop
 
 | File | Purpose |
 |---|---|
-| `C08_clean.csv` | Cleaned wide-format Census table; useful for Excel/SQL/reference work. |
+| `C08_clean.xlsx` | Cleaned wide-format Census table; useful for Excel/SQL/reference work. |
 | `Data_cleaning.ipynb` | Auditable Python/Pandas cleaning pipeline. |
 | `census c08 queries.sql` | SQLite-compatible schema and 10 analytical SQL queries. |
 | `CensusDashboard.tsx` | Interactive React/TypeScript preview of the dashboard. |
