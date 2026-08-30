@@ -26,24 +26,26 @@ The official metadata describes C-08 as educational level by age and sex for pop
 
 ## Repository structure
 
-```text
-.
-├── README.md
-├── PROJECT_REPORT.md
-├── C08_clean.csv
-├── Fact_Education_Long.csv
-├── Data_cleaning.ipynb
-├── census c08 queries.sql
-├── CensusDashboard.tsx
-├── PowerBI Build Guide.pdf
-└── report-assets/
-    ├── [chart_gender.png]
-    ├── [chart_top_bottom.png]
-    ├── [chart_rural_urban.png]
-    └── [chart_age.png]
-    └── [final_dashboard.png](https://github.com/rishabhtiwari-data/India-Census-2011---Educational-Attainment-by-Age-Sex/blob/main/report_assets/Dashboard_Preview.jpg)
-```
+Repository Structure
 
+Indian-Census-2011-Education-Analysis/
+│
+├── 📄 README.md
+├── 📄 PROJECT_REPORT.md
+├── 📓 Data_cleaning.ipynb
+├── 📊 C08_clean.csv
+├── 📊 Fact_Education_Long.csv
+├── 🗃️ census c08 queries.sql
+├── ⚛️ CensusDashboard.tsx
+├── 📘 PowerBI Build Guide.pdf
+│
+└── 📁 report-assets/
+    ├── 🖼️ chart_gender.png
+    ├── 🖼️ chart_top_bottom.png
+    ├── 🖼️ chart_age.png
+    ├── 🖼️ chart_rural_urban.png
+    └── 🖼️ final_dashboard.png⁠
+    
 ## File guide
 
 | File | Purpose |
