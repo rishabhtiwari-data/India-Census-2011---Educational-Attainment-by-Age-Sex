@@ -37,10 +37,11 @@ The official metadata describes C-08 as educational level by age and sex for pop
 ├── CensusDashboard.tsx
 ├── PowerBI Build Guide.pdf
 └── report-assets/
-    ├── chart_gender.png
-    ├── chart_top_bottom.png
-    ├── chart_rural_urban.png
-    └── chart_age.png
+    ├── [chart_gender.png]
+    ├── [chart_top_bottom.png]
+    ├── [chart_rural_urban.png]
+    └── [chart_age.png]
+    └── [final_dashboard.png](report-assets/final_dashboard.png)
 ```
 
 ## File guide
